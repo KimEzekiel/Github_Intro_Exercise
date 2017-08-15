@@ -1,5 +1,8 @@
+
 CMSC 100
 Section EF-2L
 
-Kim Ezekiel L. del Mundo 2015-10153
-Fermin Roberto G. Lapitan	xxxx-40281
+Name				Student Number
+
+Fermin Roberto G. Lapitan	19xx-40281
+Kim Ezekiel L. del Mundo  2015-10153
